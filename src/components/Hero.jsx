@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 import { MdEmail } from "react-icons/md";
+import ProfilePic from "../../public/images/ProfilePic.png"
 
 const Hero = () => {
   return (
@@ -123,7 +124,7 @@ const Hero = () => {
               }}
               transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}>
               <img
-                src="/images/ProficPic.png"
+                src={ProfilePic}
                 alt="Bharath Kumar Reddy Vemireddy"
                 className="w-full h-full object-cover object-center"
               />
