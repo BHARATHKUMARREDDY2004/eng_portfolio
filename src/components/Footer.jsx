@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto text-center">
         <div className="flex justify-center space-x-6 mb-4">
           <a
-            href="https://github.com/Ramakrishnajakkula"
+            href="https://github.com/BHARATHKUMARREDDY2004"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-700 dark:text-gray-300 hover:text-accent-cyan/80 dark:hover:text-accent-cyan transition-colors"
@@ -16,7 +16,7 @@ const Footer = () => {
             <FaGithub className="text-2xl" />
           </a>
           <a
-            href="https://www.linkedin.com/in/ramakrishna-jakkula-32a391253/"
+            href="https://www.linkedin.com/in/bharath-kumar-reddy-vemireddy/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-700 dark:text-gray-300 hover:text-accent-cyan/80 dark:hover:text-accent-cyan transition-colors"
@@ -24,7 +24,7 @@ const Footer = () => {
             <FaLinkedin className="text-2xl" />
           </a>
           <a
-            href="https://leetcode.com/u/Ramakrishna_Jakkula/"
+            href="https://leetcode.com/u/BHARATH_970438/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-700 dark:text-gray-300 hover:text-accent-cyan/80 dark:hover:text-accent-cyan transition-colors"
@@ -32,7 +32,7 @@ const Footer = () => {
             <SiLeetcode className="text-2xl" />
           </a>
           <a
-            href="mailto:ramanjaneyuluj14@gmail.com"
+            href="mailto:vemireddybharathreddy90@gmail.com"
             className="text-gray-700 dark:text-gray-300 hover:text-accent-cyan/80 dark:hover:text-accent-cyan transition-colors"
             aria-label="Email">
             <MdEmail className="text-2xl" />

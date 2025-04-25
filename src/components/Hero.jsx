@@ -73,7 +73,7 @@ const Hero = () => {
           <div className="flex space-x-6">
             <motion.a
               whileHover={{ y: -5, scale: 1.1 }}
-              href="https://github.com/Ramakrishnajakkula"
+              href="https://github.com/BHARATHKUMARREDDY2004"
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl hover:text-accent-cyan/80 dark:hover:text-accent-cyan transition-colors p-2 bg-gray-50 dark:bg-secondary-dark/80 rounded-full text-gray-700 dark:text-white shadow-sm"
@@ -82,7 +82,7 @@ const Hero = () => {
             </motion.a>
             <motion.a
               whileHover={{ y: -5, scale: 1.1 }}
-              href="https://www.linkedin.com/in/ramakrishna-jakkula-32a391253/"
+              href="https://www.linkedin.com/in/bharath-kumar-reddy-vemireddy/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl hover:text-accent-cyan/80 dark:hover:text-accent-cyan transition-colors p-2 bg-gray-50 dark:bg-secondary-dark/80 rounded-full text-gray-700 dark:text-white shadow-sm"
@@ -91,7 +91,7 @@ const Hero = () => {
             </motion.a>
             <motion.a
               whileHover={{ y: -5, scale: 1.1 }}
-              href="https://leetcode.com/u/Ramakrishna_Jakkula/"
+              href="https://leetcode.com/u/BHARATH_970438/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl hover:text-accent-cyan/80 dark:hover:text-accent-cyan transition-colors p-2 bg-gray-50 dark:bg-secondary-dark/80 rounded-full text-gray-700 dark:text-white shadow-sm"
