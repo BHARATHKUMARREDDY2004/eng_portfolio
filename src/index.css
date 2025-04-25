@@ -20,13 +20,13 @@
 
   /* Default for mobile */
   padding-left: 0;
-  margin-right: -20px;
 }
 
 /* Desktop screens (min-width: 1024px) */
 @media (min-width: 1024px) {
   :root {
     padding-left: 120px;
+    margin-right: 0px;
   }
 }
 
