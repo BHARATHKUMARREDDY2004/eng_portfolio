@@ -25,6 +25,8 @@ const Navbar = ({ toggleTheme, isDarkMode }) => {
     { title: "About", href: "about" },
     { title: "Skills", href: "skills" },
     { title: "Projects", href: "projects" },
+    { title: "Certifications", href: "certifications" },
+    { title: "Achievements", href: "achievements" },
     { title: "Contact", href: "contact" },
     {
       title: "Startup",

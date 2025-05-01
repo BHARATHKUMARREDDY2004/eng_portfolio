@@ -8,6 +8,9 @@ import Skills from "./components/Skills";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import ThreeBackground from "./components/ThreeBackground";
+import Achievements from "./components/Achievements";
+import Certifications from "./components/Certifications";
+
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(true);
@@ -46,6 +49,8 @@ function App() {
       <Projects />
       <Experience />
       <Skills />
+      <Certifications />
+      <Achievements />
       <Contact />
       <Footer />
     </div>
